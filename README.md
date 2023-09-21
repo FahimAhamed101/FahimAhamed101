@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fahim Ahmed</h1>
 <h3 align="center">Web developer</h3>
 
-- 🌱 I’m currently learning **angular**
+- 🌱 I’m currently learning **machine learning**
 
 - 💬 Ask me about **react,vue**
 
