@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fahim Ahmed</h1>
-<h3 align="center">Web developer</h3>
+<h3 align="center">Full Stack Web developer</h3>
 
 - 🌱 I’m currently learning **machine learning**
 
