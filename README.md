@@ -2,8 +2,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🤔 &nbsp; Fullstack Developer working remotely in India.
-- 💼 &nbsp; Best Selling Instructor (Explore my courses on Frontend (HTML, CSS, JavaScript, React JS,Vuejs), Backend (Python, Django, DRF,Nodejs,Express,Laravel,Php) and Data Structures Algorithms).
+- 🤔 &nbsp; Fullstack Developer from BD.
+- 💼 &nbsp; Youtube Instructor (Explore my courses on Frontend (HTML, CSS, JavaScript, React JS,Vuejs), Backend (Python, Django, DRF,Nodejs,Express,Laravel,Php) and Data Structures Algorithms).
 - 🌱 &nbsp; Learning more about Entrepreneurship, CryptoCurrencies, Automations and Algorithms.
 - ⚡️ &nbsp; Fun fact: I like playing chess.
 
