@@ -75,8 +75,8 @@
 ### 🤝🏻 &nbsp;Connect with Me 
 
 <p align="center">
-<a href="https://fahim101.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/website-unwiredlearning.com-green"></a>
-<a href="https://www.linkedin.com/in/fahim-ahmed-477836190/"></a>
-<a href="https://www.instagram.com/fahim.r.k.101/"></a>
+<a href="https://fahim101.netlify.app/">Portofolio</a>
+<a href="https://www.linkedin.com/in/fahim-ahmed-477836190/">Linkedin</a>
+<a href="https://www.instagram.com/fahim.r.k.101/">Instagram</a>
 
 </p>
