@@ -8,7 +8,14 @@
 - ⚡️ &nbsp; Fun fact: I like playing chess.
 
 ---
+### 🤝🏻 &nbsp;Connect with Me 
 
+<p align="center p-3">
+<a href="https://fahim101.netlify.app/">Portofolio</a>
+<a href="https://www.linkedin.com/in/fahim-ahmed-477836190/">Linkedin</a>
+<a href="https://www.instagram.com/fahim.r.k.101/">Instagram</a>
+
+</p>
 ### 🛠 &nbsp;Languages and Tools
 
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -72,11 +79,4 @@
 
 ---
 
-### 🤝🏻 &nbsp;Connect with Me 
 
-<p align="center">
-<a href="https://fahim101.netlify.app/">Portofolio</a>
-<a href="https://www.linkedin.com/in/fahim-ahmed-477836190/">Linkedin</a>
-<a href="https://www.instagram.com/fahim.r.k.101/">Instagram</a>
-
-</p>
