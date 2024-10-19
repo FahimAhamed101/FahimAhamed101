@@ -52,31 +52,8 @@
 
 ---
 
-### Spotify Playing 🎧
-[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/1112981871)
-
 ---
 
-### YT Videos
 
-<!-- YT-Video-LIST:START -->
-- [Being a Remote Developer - Understanding Pros and Cons of Working Remotely](https://www.youtube.com/watch?v=lAsmBDVPmEU)
-- [Where to get Remote Software Developer Job as a Fresher](https://www.youtube.com/watch?v=n-nbwb6s7ZE)
-- [How To Get An Internship In India? Tips For Computer Science Students](https://www.youtube.com/watch?v=F3kv-gpQPEA)
-- [Advice For Computer Science Students!](https://www.youtube.com/watch?v=OKXsaiwjx5M)
-<!-- YT-Video-LIST:END -->
-
----
-
-### Blogs posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How To Get Internship – Complete Internship Search Guide](https://blog.unwiredlearning.com/complete-internship-guide)
-- [Should You Join Unpaid Internship?](https://blog.unwiredlearning.com/unpaid-internship/)
-- [Django Vs Flask – Which One Should You Learn In 2021?](https://blog.unwiredlearning.com/django-vs-flask)
-- [Git Basics For Beginners](https://unwiredlearning.com/blog/git-basic-for-beginners/)
-<!-- BLOG-POST-LIST:END -->
-
----
 
 
