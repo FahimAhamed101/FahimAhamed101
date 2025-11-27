@@ -65,46 +65,31 @@ I'm a passionate **Fullstack Developer** from Bangladesh specializing in buildin
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  
-  ![Fahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fahim101&show_icons=true&theme=radical)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fahim101&layout=compact&theme=radical)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fahim101&theme=radical)
-
-</div>
-
----
-
-## 📫 Let's Connect!
+## 📊 GitHub Analytics
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://fahimweb.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahim-ahmed-477836190/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@fahimahmed)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fahim.r.k.101/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fahimahmed)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fahim.ahmed@example.com)
+### 🏆 Contribution Metrics
+<a href="https://github.com/FahimAhamed101">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FahimAhamed101&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahimAhamed101&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8&hide=html,css,scss" />
+</a>
 
-</div>
+### 🔥 Streak & Activity
+<a href="https://github.com/FahimAhamed101">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=FahimAhamed101&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+</a>
 
----
+### 📈 Detailed Activity Graph
+[![Fahim's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed101&theme=react-dark&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&hide_border=true&area=true&custom_title=Fahim's%20Coding%20Activity)](https://github.com/FahimAhamed101)
 
-## 📊 Current Focus
+### 🏅 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=FahimAhamed101&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4)](https://github.com/FahimAhamed101)
 
-```mermaid
-graph TD
-    A[Fullstack Development] --> B[Flutter Mobile Apps]
-    A --> C[MERN Stack Projects]
-    A --> D[Laravel Backend Systems]
-    B --> B1[Cross-platform Apps]
-    C --> C1[Real-time Applications]
-    D --> D1[API Development]
-
-
-
-
+### 📊 Weekly Development Breakdown
+```text
+🕒 Weekly Development Breakdown:
+🐍 Python       🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦   45.2%
+💻 JavaScript   🟦🟦🟦🟦🟦🟦🟦🟦       35.8%
+📱 Dart         🟦🟦🟦🟦🟦             18.4%
+📊 Other        🟦🟦                    8.6%
