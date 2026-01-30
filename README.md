@@ -8,10 +8,10 @@ I'm a passionate **Fullstack Developer** from Bangladesh specializing in buildin
 
 ## 👨‍💻 About Me
 
-- 💼 **Fullstack Developer** with focus on **Flutter, MERN Stack, and Laravel**
+- 💼 **🚀 Full-Stack Developer  | Clean Code Advocate | Problem Solver**
 - 🎓 **YouTube Instructor** - Creating comprehensive courses on:
-  - **Frontend**: React.js, Vue.js, JavaScript, TypeScript
-  - **Backend**: Node.js, Express, Laravel, PHP, Python, Django, DRF
+  - **Frontend**: React.js, Vue.js, JavaScript, TypeScript , Angular
+  - **Backend**: Node.js, Express, Laravel, PHP, Python, Django, DRF , ASP.NET Core
   - **Mobile**: Flutter, Dart
   - **Computer Science**: Data Structures & Algorithms
 - 🌱 **Currently Exploring**: Microservices Architecture, Cloud Native Development, AI/ML Integration
