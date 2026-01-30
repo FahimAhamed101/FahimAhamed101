@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Fahim Ahmed!
 
-### 🚀 Fullstack Developer | Flutter | MERN Stack | Laravel
+### *🚀 Full-Stack Developer  | Clean Code Advocate | Problem Solver**
 
 I'm a passionate **Fullstack Developer** from Bangladesh specializing in building scalable web and mobile applications. With expertise across multiple tech stacks, I deliver robust solutions that drive business growth and enhance user experiences.
 
